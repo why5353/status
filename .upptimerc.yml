@@ -14,7 +14,7 @@ sites:
       - 200
 statusWebsite:
   name: LicenseKit Status
-  logoUrl: https://saaslic.com/dashboard.png
+
   introTitle: LicenseKit Service Status
   introMessage: Real-time status of all LicenseKit services
   navbar:
